@@ -1,0 +1,10 @@
+git init
+mkdir name
+git clone
+cd mkdir folder
+git add .
+git commit -u "line"
+git push -u origin main
+check and get pull
+output
+done
