@@ -29,7 +29,7 @@
                             <transformers>
                                 <transformer
                                     implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                                    <mainClass>hello.Helloworld</mainClass>
+                                    <mainClass>hello.Helloworldwebhook</mainClass>
                                 </transformer>
                             </transformers>
                         </configuration>
